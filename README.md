@@ -1,16 +1,10 @@
 # adf_calculadora_imc
 
-A new Flutter project.
+Projeto de estudo da Academia do Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Como rodar: 
+1 - Git clone do projeto;
+2 - No diretorio do projeto execute o comando flutter create . para criar demais estruturas
+3 - flutter pub get
+4 - flutter run
